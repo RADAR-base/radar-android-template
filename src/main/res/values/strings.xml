@@ -1,0 +1,4 @@
+<resources>
+    <string name="templateLabel">Template</string>
+    <string name="templateDescription">Template for new RADAR pRMT plugins</string>
+</resources>
