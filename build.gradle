@@ -95,7 +95,7 @@ dependencies {
     api 'org.radarcns:radar-commons-android:0.6'
     implementation 'org.radarcns:radar-schemas-commons:0.3.2'
 
-    testImplementation 'junit:junit:4.12'
+    testImplementation 'junit:junit:4.13.2'
     testRuntimeOnly 'org.slf4j:slf4j-simple:1.7.25'
 }
 
